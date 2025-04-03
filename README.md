@@ -1,3 +1,3 @@
-The classic game snake
+
 
 
